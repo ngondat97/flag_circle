@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1628_1174)">
+<mask id="mask0_1628_1174" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path d="M256 512C397.385 512 512 397.385 512 256C512 114.615 397.385 0 256 0C114.615 0 0 114.615 0 256C0 397.385 114.615 512 256 512Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1628_1174)">
+<path d="M0 0H512V141L448 256L512 371V512H0V371L64 256L0 141V0Z" fill="#338AF3"/>
+<path d="M0 141H512V164L256 180L0 164V141Z" fill="#EEEEEE"/>
+<path d="M0 164H512V202L256 218L0 202V164Z" fill="#333333"/>
+<path d="M0 220L256 236L512 220V202H0V220Z" fill="#6DA544"/>
+<path d="M0 371H512V348L256 332L0 348V371Z" fill="#EEEEEE"/>
+<path d="M0 348H512V310L256 294L0 310V348Z" fill="#FF9811"/>
+<path d="M0 292L256 276L512 292V310H0V292Z" fill="#6DA544"/>
+<path d="M0 220H512V292H0V220Z" fill="#FFDA44"/>
+<path d="M256 312C291.346 312 320 283.346 320 248C320 212.654 291.346 184 256 184C220.654 184 192 212.654 192 248C192 283.346 220.654 312 256 312Z" fill="#EEEEEE"/>
+<path d="M178 301L256 272L334 301V328H178V301Z" fill="#EEEEEE"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1628_1174">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>
